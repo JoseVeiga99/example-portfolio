@@ -1,6 +1,5 @@
 # C.S Engineer
-<img src="assets/img/image.jpg" alt="Jose Veiga" style="width:200px;height:200px;">
-# Technical Skills
+#### Technical Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
