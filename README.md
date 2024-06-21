@@ -1,43 +1,42 @@
 # C.S Engineer
-# Skills
+# Technical Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 24px; height: 24px; vertical-align: middle;"> Python
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" style="width: 24px; height: 24px; vertical-align: middle;"> Microsoft SQL Server
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" style="width: 24px; height: 24px; vertical-align: middle;"> Machine Learning
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/extract.png" alt="ETL" style="width: 24px; height: 24px; vertical-align: middle;"> ETL
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Microsoft Office" style="width: 24px; height: 24px; vertical-align: middle;"> Microsoft Office
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 24px; height: 24px; vertical-align: middle;"> GitHub
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="Statistical Modeling" style="width: 24px; height: 24px; vertical-align: middle;"> Statistical Modeling
 </div>
 
-<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">
+<div style="flex: 1; min-width: 200px; padding: 10px; border: 1px solid #ddd; border-radius: 5px; text-align: center;">
 <img src="https://img.icons8.com/color/48/000000/google-data-studio.png" alt="Google Data Studio" style="width: 24px; height: 24px; vertical-align: middle;"> Google Data Studio
 </div>
 
-<!-- Repeat similar blocks for other skills -->
-
 </div>
+
 
 
 
