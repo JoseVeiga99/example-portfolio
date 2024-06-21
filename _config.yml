@@ -1,14 +1,8 @@
----
-layout: default
-title: Jose Veiga
----
+
 title: José Veiga
 logo: /assets/img/image.jpg
 #description: text below image
 
-assets:
-  css:
-    - /assets/style.css
 
     
 show_downloads: true
