@@ -1,0 +1,50 @@
+---
+---
+/* assets/css/custom.css */
+
+/* Custom CSS for Jekyll Minimal Theme */
+
+body {
+    text-align: left;
+}
+
+.skills-section, .education-section, .work-experience-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px; /* Adjust this value as needed */
+}
+
+.skills-section div, .education-section div, .work-experience-section div {
+    text-align: left;
+}
+
+.skills-section img, .education-section img, .work-experience-section img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+/* Additional styling for sections */
+.skills-section {
+    margin-top: 20px;
+}
+
+.skills-section div {
+    margin-bottom: 10px;
+}
+
+.education-section {
+    margin-top: 20px;
+}
+
+.education-section div {
+    margin-bottom: 10px;
+}
+
+.work-experience-section {
+    margin-top: 20px;
+}
+
+.work-experience-section div {
+    margin-bottom: 10px;
+}
