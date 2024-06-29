@@ -1,6 +1,11 @@
 title: José Veiga
 logo: /assets/img/image.jpg
-description: My personal website to showcase my projects and work   
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 show_downloads: true
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
