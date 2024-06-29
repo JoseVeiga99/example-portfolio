@@ -1,10 +1,6 @@
-
 title: José Veiga
 logo: /assets/img/image.jpg
-#description: text below image
-
-
-    
+description: My personal website to showcase my projects and work   
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
