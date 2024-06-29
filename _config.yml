@@ -2,5 +2,7 @@ title: José Veiga
 logo: /assets/img/image.jpg
 description: My personal website to showcase my projects and work   
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+#theme: jekyll-theme-minimal
